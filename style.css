@@ -1,0 +1,38 @@
+div{
+   display:flex;
+   flex-direction:column;
+   gap:10px;
+   width:400px;
+   background-color:darkblue;
+   padding:40px;
+   border-radius:20px;
+ }
+
+input{
+  border-radius:20px;
+  padding:10px;
+  background-color:blue;
+  border:none;
+  font-size:17px;
+}
+button{
+  padding:13px;
+  border-radius:50px;
+  margin-top:20px;
+  color:white;
+  background-color:blue;
+  font-size:25px;
+  border:none;
+}
+label{
+  font-size:20px;
+  color:white;
+}
+h1{
+  color:white;
+  font-size:40px;
+}
+form{
+  display:flex;  
+  justify-content:center;
+}
